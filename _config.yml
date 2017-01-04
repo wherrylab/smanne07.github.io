@@ -28,7 +28,7 @@ navbar-links:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  This page: "http://wlab-tools.tk"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -40,7 +40,7 @@ avatar: "/img/wlab-logo.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Some Person
-  email: "youremail@domain.com"
+  email: "sasikanthmanne@gmail.com"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali
@@ -56,11 +56,11 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
-  github: true
+  github: false
   linkedin: false
   xing: false
   stackoverflow: false
@@ -78,7 +78,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "wlab-tools.tk"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
