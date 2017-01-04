@@ -9,7 +9,7 @@ subtitle: Links to local R/shiny apps
 [Microarray data from Wherry Lab](http://wlabtools.ml:5055)
 
 
-#Quick differntial analysis
+#Quick differential analysis
 
 [Limma differential gene analysis](http://wlabtools.ml:5052)
 
