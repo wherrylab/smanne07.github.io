@@ -6,7 +6,7 @@ subtitle: Links to local R/shiny apps
 
 #Array Data Browser
 
-[Microarray data from Wherry Lab](http://wlabtools.tk:5055)
+[Microarray data from Wherry Lab](http://128.91.209.184:5055)
 
 
 #Quick differential analysis
