@@ -39,7 +39,7 @@ avatar: "/img/wlab-logo.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Sasikanth Manne
   email: "sasikanthmanne@gmail.com"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
