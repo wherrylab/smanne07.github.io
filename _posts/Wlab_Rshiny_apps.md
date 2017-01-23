@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Computational tools
-subtitle: Links to local R/shiny apps
+subtitle: Links to Wlab R/shiny apps
 ---
 
 #Array Data Browser
