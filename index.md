@@ -6,8 +6,8 @@ css: "/css/index.css"
 meta-title: "Wherry Lab"
 meta-description: "Computational Resources"
 bigimg:
-  - "/img/exhaustion2.jpg" : "Exhaustion"
-  - "/img/group.jpg" : "Wherry Lab"
+  - "/img/big-imgs/exhaustion2.jpg" : "Exhaustion"
+  - "/img/big-imgs/group.jpg" : "Wherry Lab"
 ---
 
 <div style="text-align:center">
