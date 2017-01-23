@@ -11,9 +11,9 @@ subtitle: Links to local R/shiny apps
 
 #Quick differential analysis
 
-[Limma differential gene analysis](http://wlabtools.tk:5052)
+[Limma differential gene analysis](http://128.91.209.184:5052)
 
 #Clustering & visualization
 
-[Clustering & visualization](http://wlabtools.tk:5050)
+[Clustering & visualization](http://128.91.209.184:5050)
 
