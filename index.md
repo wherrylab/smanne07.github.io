@@ -7,7 +7,6 @@ meta-title: "Wherry Lab"
 meta-description: "Computational Resources"
 bigimg:
   - "/img/big-imgs/exhaustion2.jpg" : "Exhaustion"
-  - "/img/big-imgs/wherry_suit.jpg" : "Wherry Lab"
 ---
 
 <div style="text-align:center">
