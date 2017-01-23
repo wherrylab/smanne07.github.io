@@ -28,7 +28,7 @@ navbar-links:
   - Microarray data browser : "http://128.91.209.184:5055"
   - Limma analysis : "http://128.91.209.184:5052" 
   - Clustering & visualization : "http://128.91.209.184:5050"
-  Wherry lab Tools Documentation : "Manual"
+  - Wherry lab Tools Documentation : "Manual"
   External Resources:
     - TCGA data browser : "http://firebrowse.org"
     - Immune system gene coexpression Database : "http://sysimm.ifrec.osaka-u.ac.jp/immuno-navigator/"
@@ -38,8 +38,6 @@ navbar-links:
     - Advanced R : "http://adv-r.had.co.nz"
     - R visualizations : "http://www.cookbook-r.com/Graphs/"
     - Illustrator vidoes : "https://canvas.uw.edu/courses/952982/pages/resource-illustrator-videos?module_item_id=5507766"
-    
-  This page: "http://wlab-tools.tk"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
