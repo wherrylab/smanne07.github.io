@@ -27,7 +27,7 @@ navbar-links:
   Blog : "blog"
   Wherry lab Resources & Tools:
   - Microarray data browser : "http://128.91.209.184:5055"
-  - Limma analysis :"http://128.91.209.184:5052" 
+  - Limma analysis : "http://128.91.209.184:5052" 
   - Clustering & visualization : "http://128.91.209.184:5050"
   External Resources:
     - TCGA data browser : "http://firebrowse.org"
