@@ -25,9 +25,13 @@ description: Wherry lab computational
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: ""
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - TCGA data browser : "http://firebrowse.org"
+    - Learn markdown : "http://www.markdowntutorial.com/"
+    - Learn Command Line : "http://rik.smith-unna.com/command_line_bootcamp/?id=2duebl1ueyp"
+    - Introduction to R : "https://cran.r-project.org/doc/manuals/r-release/R-intro.html"
+    - Advanced R : "http://adv-r.had.co.nz"
+    - R visualizations : "http://www.cookbook-r.com/Graphs/"
+    
   This page: "http://wlab-tools.tk"
 
 # Image to show in the navigation bar - image must be a square (width = height)
