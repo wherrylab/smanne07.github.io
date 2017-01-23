@@ -24,6 +24,8 @@ description: Wherry lab computational
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  WLab Resources:
+  - Microarray data browser : ""
   External Resources:
     - TCGA data browser : "http://firebrowse.org"
     - Immune system gene coexpression Database : "http://sysimm.ifrec.osaka-u.ac.jp/immuno-navigator/"
