@@ -5,7 +5,7 @@ subtitle: How to use them
 
 ---
 
-# Limma Bases analysis of Microarray/RNA-seq analysis
+# Limma Based analysis of Microarray/RNA-seq analysis
 
 This tool determines the important features significantly changed between groups by assessing differential expression using linear models implemented in the R package limma.
 
