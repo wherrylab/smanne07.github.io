@@ -32,6 +32,8 @@ navbar-links:
   External Resources:
     - TCGA data browser : "http://firebrowse.org"
     - Immune system gene coexpression Database : "http://sysimm.ifrec.osaka-u.ac.jp/immuno-navigator/"
+    - Human miRNA Expression Database : "http://guanlab.ccmb.med.umich.edu/mirmine/"
+    - Metascape Analysis,gene list annotation and enrichment analysis : "http://guanlab.ccmb.med.umich.edu/mirmine/"
     - Learn markdown : "http://www.markdowntutorial.com/"
     - Learn Command Line : "http://rik.smith-unna.com/command_line_bootcamp/?id=2duebl1ueyp"
     - Introduction to R : "https://cran.r-project.org/doc/manuals/r-release/R-intro.html"
