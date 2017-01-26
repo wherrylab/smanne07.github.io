@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Wherry Lab computational page
-subtitle: 
+title: 
+subtitle: Wherry Lab computational page
 ---
 
 This is a place for information about the computational biology tools/resources for the WherryLab.
