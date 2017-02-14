@@ -6,7 +6,7 @@ subtitle: Wherry Lab
 
 # Lab Members
 
-![Alt text](/path/to/img.jpg "Optional title")
+![Alt text](/img/wherry_suit.jpg "E John Wherry")
 
 ![Alt text](/path/to/img.jpg "Optional title")
 
