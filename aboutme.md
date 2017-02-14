@@ -8,11 +8,18 @@ subtitle: Wherry Lab
 
 ![Alt text](/img/wherry_suit.jpg "E John Wherry")
 
-![Alt text](/path/to/img.jpg "Optional title")
+![Alt text](/img/makoto.jpg "Makoto Kurachi")
 
-![Alt text](/path/to/img.jpg "Optional title")
+![Alt text](/img/erietta.jpg "Erietta Stelekati")
 
-![Alt text](/path/to/img.jpg "Optional title")
+![Alt text](/img/vesko.jpg "Vesko Tomov")
+
+![Alt text](/img/ramin.jpg "Ramin Herati")
+
+![Alt text](/img/jonathan.jpg "Optional title")
+
+![Alt text](/img/mohammad.jpg "Optional title")
+
 
 
 
