@@ -1,8 +1,20 @@
 ---
 layout: page
 title: 
-subtitle: Wherry Lab computational page
+subtitle: Wherry Lab 
 ---
+
+# Lab Members
+
+![Alt text](/path/to/img.jpg "Optional title")
+
+![Alt text](/path/to/img.jpg "Optional title")
+
+![Alt text](/path/to/img.jpg "Optional title")
+
+![Alt text](/path/to/img.jpg "Optional title")
+
+
 
 This is a place for information about the computational biology tools/resources for the WherryLab.
 
