@@ -29,6 +29,7 @@ navbar-links:
   - Microarray data browser : "http://128.91.209.184:5055"
   - Array data analysis(Limma based) : "http://128.91.209.184:5052" 
   - Clustering & visualization : "http://128.91.209.184:5050"
+  - Custom Heatmap : "http://128.91.209.184:5555"
   - Documentation : "Manual"
   External Resources:
     - TCGA data browser : "http://firebrowse.org"
