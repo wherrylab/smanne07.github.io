@@ -21,8 +21,7 @@ ACJA | Microarray | Network Analysis Reveals Centrally Connected Genes and Pathw
 Chop_infection | Microarray | 
 nfat_ap1 | Microarray | 
 mir155_oe_stelekati | RNA-seq | 
-pd1_subsets | Microarray | Network Analysis Reveals Centrally Connected Genes and Pathways Involved in CD8+ T Cell Exhaustion versus Memory Doering, Travis A. et al.
-Immunity , Volume 37 , Issue 6 , 1130 - 1144
+pd1_subsets | Microarray | Network Analysis Reveals Centrally Connected Genes and Pathways Involved in CD8+ T Cell Exhaustion versus Memory Doering, Travis A. et al.Immunity , Volume 37 , Issue 6 , 1130 - 1144
 tbet_eomes_ko | Microarray | 
 
 
