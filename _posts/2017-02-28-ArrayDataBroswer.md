@@ -17,8 +17,7 @@ miRNA_lcmv_array | Microarray |
 apdl1_lag3_dual_kp | Microarray | 
 batf_ko | Microarray | 
 Flu_PDL1L2_Dko | RNA-seq | 
-ACJA | Microarray | Network Analysis Reveals Centrally Connected Genes and Pathways Involved in CD8+ T Cell Exhaustion versus Memory Doering, Travis A. et al.
-Immunity , Volume 37 , Issue 6 , 1130 - 1144
+ACJA | Microarray | Network Analysis Reveals Centrally Connected Genes and Pathways Involved in CD8+ T Cell Exhaustion versus Memory Doering, Travis A. et al.Immunity , Volume 37 , Issue 6 , 1130 - 1144
 Chop_infection | Microarray | 
 nfat_ap1 | Microarray | 
 mir155_oe_stelekati | RNA-seq | 
