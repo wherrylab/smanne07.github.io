@@ -6,7 +6,7 @@ subtitle: Microarray/RNAseq datasets
 
 #Array Data Browser
 
-This browser has datasets from various microarray datasets from Wherry Lab and other external sources.
+This browser has datasets from various microarray/RNA-seq datasets from Wherry Lab and other external sources.
 
 
 Currently the following datasets are available on the Array data browser
