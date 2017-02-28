@@ -40,7 +40,7 @@ navbar-links:
     - Metascape Analysis,gene list annotation and enrichment analysis : "http://guanlab.ccmb.med.umich.edu/mirmine/"
     - Learn markdown : "http://www.markdowntutorial.com/"
     - Learn Command Line : "http://rik.smith-unna.com/command_line_bootcamp/?id=2duebl1ueyp"
-    - Intro to Github : "https://guides.github.com/activities/hello-world/"
+    - Intro to Github : "https://guides.github.com"
     - Intro to Fundamental statistics : "http://students.brown.edu/seeing-theory/index.html"
     - Introduction to R : "https://cran.r-project.org/doc/manuals/r-release/R-intro.html"
     - Advanced R : "http://adv-r.had.co.nz"
