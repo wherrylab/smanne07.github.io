@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Array Data Broswer
-subtitle: Microarray datasets
+subtitle: Microarray/RNAseq datasets
 ---
 
 #Array Data Browser
