@@ -14,7 +14,8 @@ Currently the following datasets are available on the Array data browser
 Data Nickname | Type | Info/Reference
 --- | --- | ---
 miRNA_lcmv_array | Microarray | 
-apdl1_lag3_dual_kp | Microarray | 
+apdl1_lag3_dual_kp | Microarray | Epigenetic stability of exhausted T cells limits durability of reinvigoration by PD-1 blockade
+Science (2016)
 batf_ko | Microarray | 
 Flu_PDL1L2_Dko | RNA-seq | 
 ACJA | Microarray | Network Analysis Reveals Centrally Connected Genes and Pathways Involved in CD8+ T Cell Exhaustion versus Memory Doering, Travis A. et al.Immunity , Volume 37 , Issue 6 , 1130 - 1144
