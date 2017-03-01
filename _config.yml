@@ -37,6 +37,7 @@ navbar-links:
     - Immune system gene coexpression Database : "http://sysimm.ifrec.osaka-u.ac.jp/immuno-navigator/"
     - Human miRNA Expression Database : "http://guanlab.ccmb.med.umich.edu/mirmine/"
     - Download processed human RNAseq datasets : "https://jhubiostatistics.shinyapps.io/recount/"
+    - Database of gene expression profiling in human single cell by RNAseq : "https://bioinfo.uth.edu/scrnaseqdb/"
     - Metascape Analysis,gene list annotation and enrichment analysis : "http://guanlab.ccmb.med.umich.edu/mirmine/"
     - Learn markdown : "http://www.markdowntutorial.com/"
     - Learn Command Line : "http://rik.smith-unna.com/command_line_bootcamp/?id=2duebl1ueyp"
@@ -46,6 +47,7 @@ navbar-links:
     - Advanced R : "http://adv-r.had.co.nz"
     - R visualizations : "http://www.cookbook-r.com/Graphs/"
     - Illustrator vidoes : "https://canvas.uw.edu/courses/952982/pages/resource-illustrator-videos?module_item_id=5507766"
+    - Microscope analysis for Chipseq and RNAseq (very very similar to wherrylab tools we built) : "http://microscopebioinformatics.org/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
