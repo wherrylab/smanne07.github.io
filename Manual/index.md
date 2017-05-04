@@ -4,7 +4,7 @@ title: WherryLab tools
 subtitle: How to use them
 
 ---
-[How to use Arraydatabrowser](https://github.com/wherrylab/wherrylab.github.io/blob/master/Manual/2017-04-27-Arraydatabrowser.md)
+[How to use Arraydatabrowser](https://wherrylab.github.io/2017-02-28-ArrayDataBroswer/)
 # Limma Based analysis of Microarray/RNA-seq analysis
 
 This tool determines the important features significantly changed between groups by assessing differential expression using linear models implemented in the R package limma.
