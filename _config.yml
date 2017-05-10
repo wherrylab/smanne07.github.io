@@ -36,6 +36,7 @@ navbar-links:
     - TCGA data browser : "http://firebrowse.org"
     - Exac data browser : "http://exac.broadinstitute.org"
     - Immune system gene coexpression Database : "http://sysimm.ifrec.osaka-u.ac.jp/immuno-navigator/"
+    - Jinglebells Immune related sc-RNAseq datasets : "http://jinglebells.bgu.ac.il" 
     - Human miRNA Expression Database : "http://guanlab.ccmb.med.umich.edu/mirmine/"
     - Download processed human RNAseq datasets : "https://jhubiostatistics.shinyapps.io/recount/"
     - Database of gene expression profiling in human single cell by RNAseq : "https://bioinfo.uth.edu/scrnaseqdb/"
