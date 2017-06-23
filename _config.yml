@@ -31,7 +31,7 @@ navbar-links:
   - Clustering & visualization : "http://128.91.209.184:5050"
   - Deseq2 analysis : "http://128.91.209.184:5053"
   - Custom Heatmap : "http://128.91.209.184:5555"
-  - RNAseq PORT(limma-voom) analysis : "http://128.91.209.184:5060"
+  - RNAseq PORT(limma-voom) analysis : "http://128.91.209.184:5066"
   - 3d plots for flow data : "http://128.91.209.184:5000"
   - Documentation : "Manual"
   External Resources:
