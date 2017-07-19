@@ -24,7 +24,7 @@ description: Wherry lab computational
 # List of links in the navigation bar
 navbar-links:
   Lab members: "aboutme"
-  Blog : ""
+  Blog : "http://127.0.0.1:4321"
   Wherry lab Resources & Tools:
   - Microarray data browser : "http://128.91.209.184:5055"
   - Array data analysis(Limma based) : "http://128.91.209.184:5052" 
