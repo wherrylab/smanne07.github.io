@@ -24,10 +24,10 @@ description: Wherry lab computational
 # List of links in the navigation bar
 navbar-links:
   Lab members: "aboutme"
-  Blog : "http://127.0.0.1:4321"
+  Blog : ""http://128.91.209.184:4321""
   Wherry lab Resources & Tools:
   - Microarray data browser : "http://128.91.209.184:5055"
-  - RNAseq data browser : "http://127.0.0.1:5200"
+  - RNAseq data browser : "http://128.91.209.184:5200"
   - Array data analysis(Limma based) : "http://128.91.209.184:5052" 
   - Clustering & visualization : "http://128.91.209.184:5050"
   - Deseq2 analysis : "http://128.91.209.184:5053"
