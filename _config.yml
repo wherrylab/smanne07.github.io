@@ -27,11 +27,11 @@ navbar-links:
   Blog : ""http://128.91.209.184:4321""
   Wherry lab Resources & Tools:
   - Microarray data browser : "http://128.91.209.184:5055"
-  - RNAseq data browser : "http://128.91.209.184:5200"
   - Array data analysis(Limma based) : "http://128.91.209.184:5052" 
   - Clustering & visualization : "http://128.91.209.184:5050"
   - Deseq2 analysis : "http://128.91.209.184:5053"
   - Custom Heatmap : "http://128.91.209.184:5555"
+  - RNAseq data browser : "http://128.91.209.184:5200"
   - RNAseq PORT(limma-voom) analysis : "http://128.91.209.184:5060"
   - 3d plots for flow data : "http://128.91.209.184:5000"
   - Documentation : "Manual"
