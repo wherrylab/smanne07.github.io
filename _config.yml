@@ -23,7 +23,7 @@ description: Wherry lab computational
 
 # List of links in the navigation bar
 navbar-links:
-  Lab members: "https://github.com/wherrylab/wherrylab.github.io/blob/master/lab_members.html"
+  Lab members: "lab_members.html"
   Blog : "_posts"
   Wherry lab Resources & Tools:
   - Microarray data browser : "http://128.91.209.184:5055"
