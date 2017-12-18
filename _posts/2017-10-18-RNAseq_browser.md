@@ -20,8 +20,3 @@ GSE58596 | RNAseq | Global transcriptome analysis and enhancer landscape of huma
 GSE83482 | RNAseq | Multiple Origins of Virus Persistence during Natural Control of HIV Infection
 GSE89307 | RNAseq | Chromatin states define tumour-specific T cell dysfunction and reprogramming. Nature 2017 May 25;545(7655):452-456
 KP_JG_Flu_PDL1L2KO | RNAseq | PDL1L2 KO Flu Transcriptomics(KP/Pam & JG study)
-
-
-
-
-PS: Most of these datasets are not yet published.
