@@ -34,5 +34,5 @@ GSE79919 | Microarray | Gene expression of dysfunctional CD8+ T cells from the t
 GSE67801 | Microarray | Transcriptome profile of HBV-specific CD8 cells from acute, resolved and chronic patients
 GSE71643 | Microarray | Translational profiling of in vivo virus-specific CD8 T cells
 GSE49274 | Microarray | Antigen availability determines CD8+ T cell-dendritic cell interaction kinetics and T cell fate decisions
-
+GSE107278 | Microarray | Microarray analysis of CD8+ T cell subsets during LCMV infection from "Runx3 programs CD8+ T cell residency in non-lymphoid tissues and tumours"
 PS: Some of these datasets may not be published yet.
