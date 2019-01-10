@@ -26,7 +26,7 @@ navbar-links:
   Lab members: "http://www.med.upenn.edu/wherrylab/lab-members.html"
   Blog : "blog"
   Wherry lab Resources & Tools:
-  - Microarray data browser : "http://ec2-35-172-109-31.compute-1.amazonaws.com/shiny/rstudio/arrayDBrwsr/"
+  - Microarray data browser : "http://127.0.0.1:5055"
   - Array data analysis(Limma based) : "http://128.91.209.184:5052" 
   - Clustering & visualization : "http://128.91.209.184:5050"
   - Deseq2 analysis : "http://128.91.209.184:5053"
