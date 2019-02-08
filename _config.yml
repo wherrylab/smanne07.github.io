@@ -27,13 +27,13 @@ navbar-links:
   Blog : "blog"
   Wherry lab Resources & Tools:
   - Microarray data browser : "http://ec2-35-172-109-31.compute-1.amazonaws.com/shiny/rstudio/arrayDBrwsr/"
-  - Array data analysis(Limma based) : "http://128.91.209.184:5052" 
-  - Clustering & visualization : "http://128.91.209.184:5050"
-  - Deseq2 analysis : "http://128.91.209.184:5053"
-  - Custom Heatmap : "http://128.91.209.184:5555"
+ # - Array data analysis(Limma based) : "http://128.91.209.184:5052" 
+ # - Clustering & visualization : "http://128.91.209.184:5050"
+ # - Deseq2 analysis : "http://128.91.209.184:5053"
+ # - Custom Heatmap : "http://128.91.209.184:5555"
   - RNAseq data browser : "http://ec2-35-172-109-31.compute-1.amazonaws.com/shiny/rstudio/RNAseqBrwser/"
   - RNAseq PORT(limma-voom) analysis : "http://ec2-35-172-109-31.compute-1.amazonaws.com/shiny/rstudio/PORT_results_visualization/"
-  - 3d plots for flow data : "http://128.91.209.184:5000"
+ # - 3d plots for flow data : "http://128.91.209.184:5000"
   - Seurat - R toolkit for single cell genomics-GUI : "http://ec2-35-172-109-31.compute-1.amazonaws.com/shiny/rstudio/seurat_shinybrowser/"
   - Documentation : "Manual"
   External Resources:
