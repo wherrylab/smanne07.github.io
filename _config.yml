@@ -34,7 +34,7 @@ navbar-links:
   - RNAseq data browser : "http://128.91.209.184:5200"
   - RNAseq PORT(limma-voom) analysis : "http://ec2-34-200-235-41.compute-1.amazonaws.com/shiny/rstudio/PORT_results_visualization/"
  # - 3d plots for flow data : "http://128.91.209.184:5000"
-  - Seurat - R toolkit for single cell genomics-GUI : "128.91.209.184:7070"
+  - Seurat - R toolkit for single cell genomics-GUI : "http://128.91.209.184:7070"
   - Documentation : "Manual"
   External Resources:
     - TCGA data browser : "http://firebrowse.org"
