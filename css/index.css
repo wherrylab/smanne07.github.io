@@ -5,10 +5,10 @@
   padding: 20px 0;
   box-shadow: 0 0 5px #AAA;
 }
-@media only screen and (max-width: 300px) {
+@media only screen and (max-width: 100px) {
   .header-section.has-img .big-img {
     margin-bottom: 0;
-    height: 3000px;
+    height: 4000px;
     width: 1000px;
   }
 }
