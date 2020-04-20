@@ -57,6 +57,8 @@ navbar-links:
     - Advanced R : "http://adv-r.had.co.nz"
     - R visualizations : "http://www.cookbook-r.com/Graphs/"
     - R commands cheatsheet : "http://bioinformatics-ca.github.io/resources/R_Short-refcard.pdf"
+    - Intro to Unix shell : "https://swcarpentry.github.io/shell-novice/"
+    - Intro to HPC(High performance computing) : "https://psteinb.github.io/hpc-in-a-day/"
     - Illustrator vidoes : "https://canvas.uw.edu/courses/952982/pages/resource-illustrator-videos?module_item_id=5507766"
     - Microscope analysis for Chipseq and RNAseq (very very similar to wherrylab tools we built) : "http://microscopebioinformatics.org/"
     - RNAseq analysis portal with lots of stats test : "http://54.164.253.29:3838/rnaseq2g/"
@@ -211,4 +213,4 @@ gems:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-modernist
